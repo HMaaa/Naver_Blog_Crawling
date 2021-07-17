@@ -1,1 +1,1 @@
-# Naver_Blog_Crawling
+# 프로잭트 설명
